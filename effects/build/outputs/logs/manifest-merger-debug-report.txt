@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml:2:1-14:12
+INJECTED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml:2:1-14:12
+	package
+		ADDED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml:3:11-36
+		INJECTED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml
+		INJECTED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml:5:11-36
+		INJECTED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml
+		INJECTED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml
+		INJECTED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml:7:5-43
+INJECTED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml:7:5-43
+INJECTED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml:7:5-43
+INJECTED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml:7:5-43
+INJECTED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml:7:5-43
+	android:targetSdkVersion
+		INJECTED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml
+		ADDED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml:7:5-43
+		INJECTED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml
+		INJECTED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml:9:5-11:38
+	android:glEsVersion
+		ADDED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml:10:13-45
+	android:required
+		ADDED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml:11:13-36
+application
+ADDED from F:\Android\Glitch-RND\effects\src\main\AndroidManifest.xml:13:5-32

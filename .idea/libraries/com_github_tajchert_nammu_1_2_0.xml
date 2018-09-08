@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.github.tajchert:nammu-1.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/nammu-1.2.0.aar/a57b3384a1908f0d5eba47c2d544cda4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/nammu-1.2.0.aar/a57b3384a1908f0d5eba47c2d544cda4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

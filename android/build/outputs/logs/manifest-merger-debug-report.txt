@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml:2:1-13:12
+INJECTED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml:2:1-13:12
+INJECTED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml:2:1-13:12
+INJECTED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml:2:1-13:12
+INJECTED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml:2:1-13:12
+INJECTED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml:2:1-13:12
+INJECTED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml:3:11-36
+		INJECTED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml
+		INJECTED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml:5:11-36
+		INJECTED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml
+		INJECTED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml
+		INJECTED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml:8:5-10:34
+	android:glEsVersion
+		ADDED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml:9:9-41
+	android:required
+		ADDED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml:10:9-32
+application
+ADDED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml:12:5-32
+uses-sdk
+INJECTED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml
+INJECTED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml
+INJECTED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml
+INJECTED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml
+		ADDED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml
+		INJECTED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml
+		ADDED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml
+		INJECTED from F:\Android\Glitch-RND\android\src\main\AndroidManifest.xml
